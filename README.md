@@ -4,7 +4,7 @@ Power Simulation Instructions
 
 1. Add your txt or csv file which holds all of the appliances and their info, such as the app.txt into the project folder. This file should have all the appliance details separated by commas- in the following format: LocationID,ApplianceDescription,OnWattage,ProbabilityOfBeingOn,isSmart(represented by true or false),percentPowerReduction(double between zero and one)
 
-2. The Main.java program needs the Appliance.java and Location.java classes to run.
+2. Add the Main.java , Appliance.java , and Location.java files to the same package folder. 
 
 3. Run Main.java
 
