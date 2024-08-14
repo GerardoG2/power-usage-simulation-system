@@ -2,13 +2,13 @@
 
 Power Simulation Instructions
 
-1. Add your txt or csv file which holds all of the appliances and their info, into the project foler. (See `app.txt` for an example reference)
-   This file should have all the appliance details separated by commas- in the following format:
+1. Add your txt or csv file which holds all of the appliances and their info, into the project folder. This file should have all the appliance details separated by commas in the following format:
    `LocationID,ApplianceDescription,OnWattage,ProbabilityOfBeingOn,isSmart (represented by true or false), percentPowerReduction (double between zero and one)`
+   (See [`app.txt`](app.txt) file in the repository folder for an example)
 
-2. Add the `Main.java`, `Appliance.java`, and `Location.java` files to the same package folder.
+2. Add the [`Main.java`](powerGridSimulation/Main.java), [`Appliance.java`](powerGridSimulation/Appliance.java), and [`Location.java`](powerGridSimulation/Location.java) files to the same package folder.
 
-3. Run `Main.java`.
+3. Run [`Main.java`](powerGridSimulation/Main.java).
 
 4. Enter the inputs requested by the program: allowed wattage (int), timesteps (int), and the name of the input file.
 
