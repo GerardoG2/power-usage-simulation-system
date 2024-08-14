@@ -12,4 +12,6 @@ Power Simulation Instructions
 
 5. The user is prompted to select an option from the menu. Follow the directions on screen and select your desired option.
 
-6. When the simulation is complete there will be some stats outputted to the screen and other stats will be outputted to "output.txt" in the project folder. Note: Every time the simulation is ran the output.txt file will be replaced.
+6. When the simulation is complete there will be two outputs:
+      OUTPUT TO SCREEN: Total appliances set to low per timestep,total browned out locations per timestep, total affected locations per timestep, max affected location of            the entire simulation
+      FILE OUTPUT: output.txt file containing the appliances affected per timestep, the locations affected per timestep
