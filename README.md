@@ -11,7 +11,7 @@ Power Simulation Instructions
 
 3. Run Main.java
 
-4. Enter the inputs requested by the program. Allowed wattage (int), timesteps (int), and the name of the input file.
+4. Enter the inputs requested by the program: allowed wattage (int), timesteps (int), and the name of the input file.
 
 5. The user is prompted to select an option from the menu. Follow the directions on screen and select your desired option.
 
