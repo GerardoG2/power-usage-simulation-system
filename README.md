@@ -3,7 +3,7 @@
 ## Description
 
 
-## Languages and Utilities Used
+## Languages Used
 * Java
 
 ## Environments Used
