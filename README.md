@@ -1,5 +1,15 @@
-# power-usage-simulation-system
+# Power Usage Simulation System
 
+## Description
+
+
+## Languages and Utilities Used
+* Java
+
+## Environments Used
+* Windows 10
+
+## Program walk-through
 Power Simulation Instructions
 
 1. Add your txt or csv file which holds all of the appliances and their info, into the project folder. This file should have all the appliance details separated by commas in the following format:
