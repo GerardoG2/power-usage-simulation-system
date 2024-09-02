@@ -1,13 +1,17 @@
 # Power Usage Simulation System
-
+# Author: Gerardo Gutierrez
 ## Description
-
+Java application to simulate power consumption management for a building, focusing on
+efficient power usage of regular and smart appliances.
 
 ## Languages Used
 * Java
 
 ## Environments Used
 * Windows 10
+
+## Program Demo Video 
+[Watch the Demo Video](https://www.youtube.com/watch?v=YourVideoID)
 
 ## Program walk-through
 Power Simulation Instructions
